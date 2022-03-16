@@ -73,11 +73,11 @@ span{
 }
 
 .experiencia{
-    margin-bottom: 100px;
+    margin-bottom: 10px;
 }
 
 li{
-    margin: 12px;
+    margin: 2px;
 }
 
 .logo-footer{
@@ -86,3 +86,19 @@ li{
     margin-top: 5px;
 }
 
+.ul-sin-iconos{
+    list-style: none;
+}       
+
+.li-inline{
+    display: inline;
+}
+
+.ul-inline{
+    display: inline;
+    padding: 0;
+
+}
+.li-con-padding{
+    padding-left: 78px;
+}
